@@ -1,4 +1,4 @@
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 ////9-18作業繼承Prodact Outletp9-14
 
 public class Outlet extends Product {

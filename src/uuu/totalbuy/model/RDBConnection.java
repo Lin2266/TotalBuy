@@ -42,7 +42,7 @@ public class RDBConnection {
         if(pw!=null) {
             pwd=pw;
         }else{
-            pwd="root1234";
+            pwd="123456";
         }
         
     }

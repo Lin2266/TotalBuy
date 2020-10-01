@@ -1,4 +1,4 @@
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 //課本3-13習題，4-12習題改3-13
 //產品 
 

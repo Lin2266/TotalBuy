@@ -1,4 +1,4 @@
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 
 import java.util.ArrayList;
 import java.util.Date;

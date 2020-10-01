@@ -1,5 +1,5 @@
 
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 // 15-8 Collection容器 hashCode
 
 import java.text.DateFormat;

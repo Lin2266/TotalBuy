@@ -1,5 +1,5 @@
 
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 //9-18作業繼承Customer vip9-5
 public class VIP extends Customer{
     private int discount=10;//10=打9折

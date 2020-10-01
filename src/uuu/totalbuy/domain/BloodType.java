@@ -1,5 +1,5 @@
 
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 //血型
 public enum BloodType {
     O, A, B, AB;

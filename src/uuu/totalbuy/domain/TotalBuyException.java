@@ -1,5 +1,5 @@
 
-package uuu.totalbuy.other;
+package uuu.totalbuy.domain;
 
 public class TotalBuyException extends Exception {
 
